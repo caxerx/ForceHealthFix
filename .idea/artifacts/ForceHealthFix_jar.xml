@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ForceHealthFix:jar">
+    <output-path>$PROJECT_DIR$/../ForceHealthFix/out/artifacts/ForceHealthFix_jar</output-path>
+    <root id="archive" name="ForceHealthFix.jar">
+      <element id="module-output" name="ForceHealthFix" />
+      <element id="dir-copy" path="$PROJECT_DIR$/../ForceHealthFix/src/main/resources" />
+    </root>
+  </artifact>
+</component>
